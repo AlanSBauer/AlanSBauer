@@ -57,7 +57,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/AlanSBauer/AlanSBauer/output/snake.svg" alt="Snake animation" />
-
-###
