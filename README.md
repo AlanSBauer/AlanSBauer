@@ -12,7 +12,7 @@
   <a href = "mailto:alanbauer@rede.ulbra.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
-<h4 align="left">🎯 Futuro Dev. Full Stack<br>💻 Cursando Análise e Desenvolvimento de Sistemas - Ulbra Torres/RS<br>🚀 Estudando tecnologias como JavaScript, React, React Native, Node.js, Next.js, Python, PHP, Laravel e MySQL<br>📈 Apaixonado por tecnologia e sempre em busca de novos aprendizados<br>📚 Atualmente focado em me tornar um Desenvolvedor Full Stack completo</h4>
+<h4 align="left">💻 Cursando Análise e Desenvolvimento de Sistemas - Ulbra Torres/RS<br>🚀 Estudando tecnologias como JavaScript, React, React Native, Node.js, Next.js, Python, PHP, Laravel e MySQL<br>📈 Apaixonado por tecnologia e sempre em busca de novos aprendizados<br>📚 Atualmente focado em me tornar um Desenvolvedor Full Stack completo</h4>
 
 ###
 
@@ -38,8 +38,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
