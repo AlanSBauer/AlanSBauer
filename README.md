@@ -12,7 +12,12 @@
   <a href = "mailto:alanbauer@rede.ulbra.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
-<h4 align="left">💻 Cursando Análise e Desenvolvimento de Sistemas - Ulbra Torres/RS<br>🚀 Estudando tecnologias como JavaScript, React, React Native, Node.js, Next.js, Python, PHP, Laravel e MySQL<br>📈 Apaixonado por tecnologia e sempre em busca de novos aprendizados<br>📚 Atualmente focado em me tornar um Desenvolvedor Full Stack completo</h4>
+<h4 align="left">💻 Cursando Análise e Desenvolvimento de Sistemas - Ulbra Torres/RS<br>
+🚀 Estudando tecnologias como JavaScript, React, Node.js e Next.js<br>
+📚 Conhecimento em Java, C# e Python adquiridos na faculdade<br>
+🗄️ Aprendendo Banco de Dados (SQL) — atualmente o básico, com aprofundamento no próximo semestre<br>
+📈 Apaixonado por tecnologia e sempre em busca de novos aprendizados<br>
+🎯 Atualmente focado em me tornar um Desenvolvedor Full-Stack completo</h4>
 
 ###
 
