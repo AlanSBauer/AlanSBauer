@@ -13,7 +13,7 @@
 </div>
 
 <h4 align="left">💻 Cursando Análise e Desenvolvimento de Sistemas - Ulbra Torres/RS<br>
-🚀 Estudando tecnologias como JavaScript, React, Node.js e Next.js<br>
+🚀 Estudando JavaScript<br>
 📚 Conhecimento em Java, C# e Python adquiridos na faculdade<br>
 🗄️ Aprendendo Banco de Dados (SQL) — atualmente o básico, com aprofundamento no próximo semestre<br>
 📈 Apaixonado por tecnologia e sempre em busca de novos aprendizados<br>
