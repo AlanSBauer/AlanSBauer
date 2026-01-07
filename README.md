@@ -1,40 +1,32 @@
-<h2 align="left">👨‍💻 Alan Bauer</h2>
+# 👨‍💻 Alan Bauer
 
-<h2 align="left">About Me</h2>
+## About Me
 
-<div> 
-  <a href="https://www.linkedin.com/in/alansbauer" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="https://instagram.com/alan_sbauer" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:alanbauer@rede.ulbra.br">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>  
-</div>
+💻 Cursando **Análise e Desenvolvimento de Sistemas** – Ulbra Torres/RS  
+🚀 Estudando **JavaScript**  
+📚 Conhecimento em **Java, C# e Python** adquiridos na faculdade  
+🗄️ Aprendendo **Banco de Dados (SQL)**  
+📈 Apaixonado por tecnologia e aprendizado contínuo  
+🎯 Focado em me tornar um **Desenvolvedor Full-Stack**
 
-<h4 align="left">
-💻 Cursando Análise e Desenvolvimento de Sistemas - Ulbra Torres/RS<br>
-🚀 Estudando JavaScript<br>
-📚 Conhecimento em Java, C# e Python adquiridos na faculdade<br>
-🗄️ Aprendendo Banco de Dados (SQL) — atualmente o básico<br>
-📈 Apaixonado por tecnologia e sempre em busca de novos aprendizados<br>
-🎯 Focado em me tornar um Desenvolvedor Full-Stack
-</h4>
+---
 
-<h2 align="left">Stats</h2>
+## 🔗 Conecte-se comigo
 
-<div align="left">
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=AlanSBauer&show_icons=true&theme=github_dark"
-    alt="GitHub Stats"
-  />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alansbauer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alan_sbauer)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanbauer@rede.ulbra.br)
 
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSBauer&layout=compact&theme=github_dark"
-    alt="Top Languages"
-  />
-</div>
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanSBauer&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSBauer&layout=compact&theme=github_dark)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlanSBauer&theme=github-dark)
