@@ -16,9 +16,10 @@
 
 <h4 align="left">
 💻 Cursando Análise e Desenvolvimento de Sistemas - Ulbra Torres/RS<br>
-🚀 Estudando JavaScript<br>
-📚 Conhecimento em Java, C# e Python adquiridos na faculdade<br>
-🗄️ Aprendendo Banco de Dados (SQL) — atualmente o básico<br>
-📈 Apaixonado por tecnologia e sempre em busca de novos aprendizados<br>
-🎯 Focado em me tornar um Desenvolvedor Full-Stack
+🚀 Estudando React.js com projetos em Next.js e TypeScript<br>
+📚 Conhecimentos iniciais em Java, C#, JavaScript, React e Python<br>
+🗄️ Conhecimento básico em Banco de Dados, com experiência inicial em MySQL<br>
+📈 Apaixonado por tecnologia e aprendizado contínuo, sempre buscando evoluir como desenvolvedor<br>
+🎯 Em busca de uma oportunidade de estágio para crescer como Desenvolvedor Full-Stack
+
 </h4>
